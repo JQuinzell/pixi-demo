@@ -1,6 +1,5 @@
 import * as PIXI from "pixi.js";
 import bunnyUri from "../examples/assets/bunny.png";
-console.log({ bunny });
 
 const app = new PIXI.Application({
   width: 800,
